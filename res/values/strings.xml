@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BHS Schedule Tracker</string>
+
+    <string-array name="schedules">
+        <item>115 Greenough</item>>
+        <item>Begin @ 115</item>>
+        <item>Begin @ OLS</item>>
+    </string-array>
+
+
+    <string-array name="lunchBlocks">
+        <item>A</item>>
+        <item>B</item>>
+        <item>C</item>>
+        <item>D</item>>
+        <item>E</item>>
+        <item>F</item>>
+        <item>G</item>>
+    </string-array>
+
+    <string-array name="week">
+        <item>Red Week</item>>
+        <item>Blue Week</item>>
+    </string-array>
+
+
+
+    <string-array name="day">
+        <item>Monday</item>>
+        <item>Tuesday</item>>
+        <item>Wednesday</item>>
+        <item>Thursday</item>>
+        <item>Friday</item>>
+    </string-array>
+
+
+</resources>
